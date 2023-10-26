@@ -1,0 +1,57 @@
+h1{
+    font-size:50px;
+}
+
+ul{
+    font-size: 25px;
+}
+
+ol{
+    font-size: 25px;
+}
+
+#body{
+    border: 7px dashed rgb(176, 213, 242);
+    height: 96vh;
+}
+
+.fixedimage{
+    position: fixed;
+    right: 20px;
+    top: 20px;
+}
+
+strong{
+    font-size: 20px;
+}
+
+#i3{
+    display: inline-block;
+}
+
+#i31{
+    height:377px;
+    width: 498px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.cflex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.next,.previous {
+    background-color: rgb(144, 202, 253);
+    color: white;
+    padding: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+
+  a:hover {
+    background-color: #ddd;
+    color: black;
+    
+  }
+  

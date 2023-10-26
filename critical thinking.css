@@ -1,0 +1,26 @@
+#ctintro{
+    display: inline-block;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 18%;
+
+}
+
+#ctheadimg{
+    background-image: url(/resource/why-is-critical-thinking-important-1024x768.jpg);
+    background-size: cover;
+   width: 1020px;
+   height: 700px;
+  display: inline-block;
+}
+
+#csintrotxt{
+    font-size: 30px;
+    margin-left: 2%;
+}
+a{
+    margin-left: 2%;
+    font-size: large;
+    color: red;
+}
+

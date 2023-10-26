@@ -1,0 +1,29 @@
+body {
+    background-image: url("Home\ \(1\).jpg");
+    background-size: cover;
+}
+ header{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+section{
+    margin-top: 100px;
+}
+img{
+width: 300px;
+height: 400px;
+}
+.topics{
+    display: inline-block;
+    margin-left: 10%;
+    font-size: 50px;
+    padding: 10px;
+    color: white;
+    background-color: rgba(225, 225, 225, .2);
+    text-align: center;
+}
+p{
+    margin: 0%;
+    color: white;
+}

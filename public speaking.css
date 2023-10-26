@@ -1,0 +1,30 @@
+#headimg{
+    display: flex;
+}
+body{
+    margin: 0%;
+}
+#headimg{
+    background-image: url("/resource/ps\ p2.jpg");
+    background-size: cover;
+    width: 1530px;
+    height: 700px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+#content{
+    color: black;
+    font-size: 35px;
+    
+}
+#psvideo{
+    margin-left: 2%;
+}
+.pspoints{
+    font-size: 30px;
+    margin-left: 2%;
+}
+h2{
+    margin-left: 2%;
+}

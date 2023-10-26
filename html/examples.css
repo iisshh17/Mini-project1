@@ -1,0 +1,68 @@
+#ex1{
+    height: 800px;
+    width: 600px;
+    
+
+}
+
+#i1{
+    height: 600px;
+    width: 500px;
+    display: inline-block;
+    padding-top: 0px;
+    margin-top: 0px;
+    position: relative;
+    top: 50px;
+}
+
+#flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+#ex2{
+    display:flex;
+    justify-content: space-around;
+}
+
+#i2{
+    position: relative;
+    top:60px;
+}
+
+#ex3{
+    display: flex;
+    justify-content: space-around;
+}
+
+#i3{
+    position: relative;
+    top: 60px;
+}
+
+#body{
+    border: 7px dashed rgb(176, 213, 242);
+    height: 300vh;
+}
+
+.fixedimage{
+    position: fixed;
+    right: 20px;
+    top: 20px;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+    
+  }
+  
+  
+  
+ .next {
+    background-color: rgb(144, 202, 253);
+    color: white;
+    padding: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
